@@ -18,11 +18,9 @@ A heartfelt Mother's Day tribute website built for Potti amma — featuring a be
 
 ## Live App
 
-Deployed on the Internet Computer via [Caffeine](https://caffeine.ai).
 
 ## Message
 
 > Happy Mother's Day, Potti amma. 💛  
 > You are my first priority and the most important person in my life.
 
-## GitHub
